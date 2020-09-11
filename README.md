@@ -1,8 +1,6 @@
 # Leaderboard
 Google Africa Developer Scholarship Phase II Associate Android Developer Practice Project
 
-# Demo
-![Demo Animation](screenshots/demo.gif)
 
 ## Building a GADS Leaderboard Mobile Application
 

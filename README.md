@@ -28,11 +28,3 @@ This project uses:
 
  - You can also find all resources and designs needed for this project [here](https://drive.google.com/drive/folders/1l-huMnFzu0Lh_olBCzHgovsUCwbKouMb?usp=sharing)
 
- ## Screenshots
- ![Splash Screen](screenshots/1_splash.png)
- ![Learners Screen](screenshots/2_learners.png)
- ![Skill IQ Screen](screenshots/3_skillQ.png)
- ![Submit Form Screen](screenshots/4_submit_form.png)
- ![Confirm Submit Screen](screenshots/5_confirm_submit.png)
- ![Success Screen](screenshots/6_submit_success.png)
- ![Failure Screen](screenshots/7_submit_fail.png)

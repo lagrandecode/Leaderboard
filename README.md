@@ -27,4 +27,8 @@ This project uses:
  - Skill IQ Leaders - /api/skilliq
 
  - You can also find all resources and designs needed for this project [here](https://drive.google.com/drive/folders/1l-huMnFzu0Lh_olBCzHgovsUCwbKouMb?usp=sharing)
+ 
+ ###Screenshots
+ 
+ ![Screenshot_20200911-201537](https://user-images.githubusercontent.com/58033364/92967135-a16cd480-f470-11ea-9e7f-9abe18fcdd42.png)
 

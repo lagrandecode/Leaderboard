@@ -28,7 +28,14 @@ This project uses:
 
  - You can also find all resources and designs needed for this project [here](https://drive.google.com/drive/folders/1l-huMnFzu0Lh_olBCzHgovsUCwbKouMb?usp=sharing)
  
- ###Screenshots
+ ### Screenshots
  
  ![Screenshot_20200911-201537](https://user-images.githubusercontent.com/58033364/92967135-a16cd480-f470-11ea-9e7f-9abe18fcdd42.png)
+
+![Screenshot_20200911-201605](https://user-images.githubusercontent.com/58033364/92967417-222bd080-f471-11ea-9739-12b9444bd6aa.png)
+
+![Screenshot_20200911-201624](https://user-images.githubusercontent.com/58033364/92967464-3079ec80-f471-11ea-98b9-ad3d0512bc45.png)
+
+![Screenshot_20200911-201611](https://user-images.githubusercontent.com/58033364/92967439-2952de80-f471-11ea-8587-c959a47e2d27.png)
+
 
